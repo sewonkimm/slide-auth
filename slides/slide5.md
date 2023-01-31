@@ -10,4 +10,6 @@
 인증을 제 3자에게 위임한다!
 
 
-<iframe src="https://giphy.com/embed/l1J3IHzSUmCpXThqo" width="800" height="600" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img data-src="/images/continued.jpg">
+
+Oauth와 예제 코드를 구현해보는 것이 목표입니다 ^^

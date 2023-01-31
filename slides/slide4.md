@@ -71,8 +71,7 @@ AccessToken을 재발급 받을 수 있는 토큰
 5. AccessToken이 만료되면 RefreshToken으로 두 토큰을 모두 재발급
 6. 새로고침하여 AccessToken이 사라지면 RefreshToken으로 두 토큰을 모두 재발급
 
-
-# 예제
+<!-- # 예제 -->
 
 
 # 명확한 한계
